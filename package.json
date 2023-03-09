@@ -1,0 +1,22 @@
+{
+  "name": "ferris-wheel",
+  "version": "1.0.0",
+  "description": "A ferris wheel built using css transformation/animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-rizz/Ferris-Wheel.git"
+  },
+  "keywords": [
+    "html/css"
+  ],
+  "author": "Conrad P.B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/G-rizz/Ferris-Wheel/issues"
+  },
+  "homepage": "https://github.com/G-rizz/Ferris-Wheel#readme"
+}
